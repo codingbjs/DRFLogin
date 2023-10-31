@@ -128,7 +128,6 @@ SECRET_KEY = __secret.SECRET_KEY
 DATABASES = __secret.DATABASES
 ```
 - .gitignore 파일 생성  secret.py 추가
-- /.gitignore 파일 생성  secret.py 추가
 
 ```gitignore
 # SECRET_KEY
