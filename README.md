@@ -1,4 +1,4 @@
-# Django-Rest-Framework(DRF) Social Login
+# Django-Rest-Framework(DRF) Login
 
 ### 1. 파이참 프로젝트 생성
 - 프로젝트명 : DRFLogin
