@@ -118,16 +118,6 @@ DATABASES = {
     }
 }
 
-KAKAO_REST_API_KEY = 'kakao_key'
-
-SOCIAL_AUTH_GITHUB_CLIENT_ID = 'github_client_id'
-SOCIAL_AUTH_GITHUB_SECRET = 'secret'
-
-SOCIAL_AUTH_GOOGLE_CLIENT_ID = 'google_client_id'
-SOCIAL_AUTH_GOOGLE_SECRET = 'google_secret_key'
-
-STATE = 'random_string'
-
 ```
 - settings.py
 ```python
